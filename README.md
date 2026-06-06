@@ -31,7 +31,7 @@ An intelligent data analytics platform built using Streamlit and Gemini AI that 
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-data-analytics-dashboard.git
+git clone https://github.com/soumyadip4119/ai-data-analytics-dashboard.git
 cd ai-data-analytics-dashboard
 pip install -r requirements.txt
 ```
